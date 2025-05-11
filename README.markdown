@@ -169,9 +169,12 @@ Masukkan pilihan: _
   - Pesan: "Stok diperbarui: Paracetamol, Stok Baru: 90"
 
 ## Pembagian  Tim
-Muhammad Hafidz
-Nayla Nabila Syahel
-Syakila Naira
-Muhammad Sulthan Shadiq
+  * Muhammad Hafidz
+   
+  * Nayla Nabila Syahel
+
+  * Syakila Naira
+   
+  * Muhammad Sulthan Shadiq
 
 Terima kasih telah menggunakan MediTrack! Jika ada pertanyaan atau saran, silakan hubungi kami melalui GitHub atau email tim. Semoga sukses!.
