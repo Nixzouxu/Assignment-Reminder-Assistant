@@ -1,4 +1,4 @@
-# MediTrack: Inventory & Expiry Analyzer
+# MediTrack: Medicine Inventory & Expiry Analyzer
 
 Selamat datang di **MediTrack**! Ini adalah program sederhana yang dirancang untuk membantu apotek atau tempat penyimpanan obat mengelola stok obat dengan lebih mudah. Program ini memungkinkan Anda menambahkan obat, melihat daftar obat, memeriksa obat yang akan segera kadaluwarsa, dan mengelola permintaan obat. Semuanya dilakukan melalui terminal (layar teks di komputer) dengan tampilan yang rapi dan mudah digunakan.
 
